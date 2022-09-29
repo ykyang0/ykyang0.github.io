@@ -13,31 +13,23 @@ output: html_document
 </p>
 <br>
 
-🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.* 
 <br><br><br>
-👋🏽 Hello, my name is John Appleseed.
+👋🏽 Hello, my name is Young Keun Yang.
 
-🎓 Soon to be grad with a M.S. in Data Science at ABC University. (May 2022)
+🎓 Soon to be grad with a M.A. in Statistics at University of South Florida. (May 2023)
 
-🌇 New York City Native, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
+🌇 Resides in Tampa Bay Area, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
 
 📚 **Talk about your past experience, your present experience, and what you did (about 4-5 sentences)**
 
-...
 
-💻 **Talk about what you want to do in the future (2 sentences)**
 
-e.g. 💻 As for my future, I hope to one day work as a data analyst/scientist/engineer role and work with a marketing team.
+💻 As for my future, I hope to one day work as a data scientist
 
-🏔 **Talk about hobbies(1 sentence)**
+🏔In my free time, I play golf or baseball.
 
-e.g. 🏔In my free time, you can find me rock climbing.
-
-💪 **Highlight your strengths, use keywords (5-6)**
-
-e.g. 💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
+💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
 
 + Programming: Python, R
-+ Data visualization: Tableau Software, Power BI
-+ Database: SQL, Postgre SQL, MongoDB, Neo4j
-+ Cloud Computing: AWS, GCP (BigQuery), Azure
++ Data visualization: Tableau
++ Database: SQL, Postgre SQL

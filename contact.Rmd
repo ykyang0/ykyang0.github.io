@@ -1,7 +1,7 @@
 
 ---
 title: ""
-author: "John Appleseed"
+author: "Young Keun Yang"
 date: 
 output: html_document
 ---
@@ -12,9 +12,10 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-#### **John Appleseed**
-##### M.S. Candidate in Data Science | ABC University <img src="images/college_logo.png" style="width:35%;" align="right">
+#### **Young Keun Yang**
+##### M.A. Candidate in Statistics | University of South Florida 
 
-📍 Seoul <br>
-📱 (123) 456 - 7890 <br>
-✉️ [jappleseed@abc.edu](mailto:jappleseed@abc.edu) <br>
+
+📍 Tampa Bay Area, FL <br>
+📱 (813) 618 - 4435 <br>
+✉️ [datascientist.young@gmail.com](mailto: datascientist.young@gmail.com) <br>

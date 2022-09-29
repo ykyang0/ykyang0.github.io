@@ -17,7 +17,7 @@ output:
 ## **Movie Explorer**
 
 ![](https://img.shields.io/badge/Using-R-blue)
-![](https://img.shields.io/badge/-SQL-red)
+![](https://img.shields.io/badge/Using-R-%2300FFFF)
 ![](https://img.shields.io/badge/-Shiny%20App-success)
 
 <br>
