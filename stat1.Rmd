@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Predicting House Prices in Iowa**
+## **Predicting Hotel reservation cancellation**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
 ![](https://img.shields.io/badge/-LASSO-red)
@@ -22,7 +22,7 @@ output:
 
 <br>
 
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
+🚨**This was a project based on real data from a hotel in Portugal.**
 
 <br><br><br>
 
@@ -55,7 +55,7 @@ To predict the final price of each home using 79 explanatory variables describin
 
 ### 4. Code
 
-Please click [HERE](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report) for the analysis report and code.
+Please click [HERE](https://colab.research.google.com/drive/1iD7BxEBQoV-LTm-SE5XMJM6Rfh29MFVb?usp=sharing) for the analysis report and code.
 
 <br>
 

@@ -7,11 +7,11 @@ output_dir: "."
 navbar:
   title: "Young Keun Yang"
   left:
-    - text: "About Me"
+    - text: "ML Clustering"
       href: tutorials.html
-    - text: "Stat/ML"
+    - text: "ML Classification"
       menu: 
-      - text: "Predicting House Prices in Iowa"
+      - text: "Predicting Hotel Cancellation"
         href: stat1.html
     - text: "DB/SQL"
       menu: 
