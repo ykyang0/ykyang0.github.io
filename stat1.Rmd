@@ -55,7 +55,7 @@ To predict the final price of each home using 79 explanatory variables describin
 
 ### 4. Code
 
-Please click [HERE](https://colab.research.google.com/drive/1iD7BxEBQoV-LTm-SE5XMJM6Rfh29MFVb?usp=sharing) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/ykyang0/ykyang0.github.io/blob/main/files/Final_version_of_hotel_notebook.ipynb) for the analysis report and code.
 
 <br>
 
