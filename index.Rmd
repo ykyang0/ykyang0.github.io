@@ -9,22 +9,20 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile.jpg" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
+<img src="images/profile2.jpeg" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
 </p>
 <br>
 
 <br><br><br>
 👋🏽 Hello, my name is Young Keun Yang.
 
-🎓 Soon to be grad with a M.A. in Statistics at University of South Florida. (August 2023)
+🎓 Soon to graduate with an M.A. in Statistics at the University of South Florida. (August 2023)
 
 🌇 Resides in Tampa Bay Area, passionate about developing and applying statistical and machine learning models that bring insights or prediction.
 
-📚 I used to work in Korea's sports industry, and I was passionate about using data. I decided to start a new career; to do so, I studied Statistics at a graduate level. Over time, I realized data science is the best area in that I can show my statistical knowledge and apply it to a meaningful application. I have tried to get used to coding, which helps to elaborate my understanding, and I have become confident that I am ready to be a data scientist.
+📚 I used to work in Korea's sports industry and was passionate about using data. I decided to start a new career; to do so, I studied Statistics at a graduate level. Over time, I realized data science is the best area in that I can show my statistical knowledge and apply it to a meaningful application. I have tried to get used to coding, which helps to elaborate my understanding, and I have become confident that I am ready to be a data scientist.
 
-💻 As for my future, I hope to work as a data scientist in the United States.
-
-🏔In my free time, I watch or play golf or baseball.
+🏔In my free time, I play golf or baseball or spend time with my family.
 
 💪 Specialties in Mathematical, Statistical thinking which will be essential to understanding complicated processes or models.
 
