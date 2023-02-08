@@ -1,0 +1,61 @@
+---
+pagetitle: "Stat1"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br><br><br>
+
+## **Predicting Hotel reservation cancellation**
+
+![](https://img.shields.io/badge/Using-Python-blue)
+![](https://img.shields.io/badge/-LASSO-red)
+![](https://img.shields.io/badge/-XGBoost-success)
+
+<br>
+
+🚨**This was a project based on real data from a hotel in Portugal.**
+
+<br><br><br>
+
+### 1. Figure
+
+<p align="center">
+<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Fig. LASSO regression features by importance]
+</p>
+
+
+<br>
+
+<br><br>
+
+### 2. Goal
+To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+
+<br>
+
+### 3. Methodology & Summary
+
+  + LASSO regressions showed the best performance with a cross validation 
+  + The XGBoost model also performs very well with a cross validation 
+
+<br>
+
+### 4. Code
+
+Please click [HERE](https://nbviewer.org/github/ykyang0/ykyang0.github.io/blob/main/files/Clustering.ipynb) for the analysis report and code.
+
+<br>
+
+

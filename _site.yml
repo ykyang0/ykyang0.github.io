@@ -7,11 +7,11 @@ output_dir: "."
 navbar:
   title: "Young Keun Yang"
   left:
-    - text: "ML Clustering"
+    - text: "Tutorial"
       menu:
-      - text: "Customer segmentation"
+      - text: "Tutorial"
         href: tutorials.html
-    - text: "ML Classification"
+    - text: "Tutorial"
       menu: 
       - text: "Predicting Hotel Cancellation"
         href: stat1.html
@@ -19,6 +19,10 @@ navbar:
       menu: 
       - text: "ML prject3"
         href: dbsql1.html
+    - text: "ML Clustering"
+      menu: 
+      - text: "ML Clustering"
+        href: ML2.html
     - text: "Tableau Project"
       menu: 
       - text: "Tableau Project"
