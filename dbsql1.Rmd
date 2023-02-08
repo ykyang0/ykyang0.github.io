@@ -1,5 +1,5 @@
 ---
-pagetitle: "DB/SQL1"
+pagetitle: "ML project3"
 output:
   html_document:
     toc: true
@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Movie Explorer**
+## **ML project3**
 
 ![](https://img.shields.io/badge/Using-R-blue)
 ![](https://img.shields.io/badge/Using-R-%2300FFFF)

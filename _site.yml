@@ -8,18 +8,20 @@ navbar:
   title: "Young Keun Yang"
   left:
     - text: "ML Clustering"
-      href: tutorials.html
+      menu:
+      - text: "Customer segmentation"
+        href: tutorials.html
     - text: "ML Classification"
       menu: 
       - text: "Predicting Hotel Cancellation"
         href: stat1.html
-    - text: "DB/SQL"
+    - text: "ML Project 3"
       menu: 
-      - text: "Movie Explorer"
+      - text: "ML prject3"
         href: dbsql1.html
-    - text: "Visualization"
+    - text: "Tableau Project"
       menu: 
-      - text: "Squid Game Elimination Analysis"
+      - text: "Tableau Project"
         href: visualization1.html
   right:
     - icon: fas fa-envelope
