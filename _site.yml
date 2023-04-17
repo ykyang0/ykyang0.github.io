@@ -7,11 +7,7 @@ output_dir: "."
 navbar:
   title: "Young Keun Yang"
   left:
-    - text: "Tutorial"
-      menu:
-      - text: "Tutorial"
-        href: tutorials.html
-    - text: "Tutorial"
+    - text: "ML Project - Classification"
       menu: 
       - text: "Predicting Hotel Cancellation"
         href: stat1.html
