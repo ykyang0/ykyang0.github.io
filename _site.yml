@@ -17,8 +17,8 @@ navbar:
     #     href: dbsql1.html
     - text: "ML Project - Clustering"
       menu: 
-      - text: "ML Clustering"
-        href: ML2.html
+      - text: "ML Project - Clustering"
+        href: ML-Project2.html
     - text: "Tableau Project"
       menu: 
       - text: "Tableau Project"
