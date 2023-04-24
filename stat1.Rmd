@@ -30,18 +30,21 @@ output:
 
 <p align="center">
 <img src="images/hotel_XGB_feature_importance.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-</p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Fig. XGB Classification features by importance]
 </p>
-
 
 <br>
+<img src="images/Classification ROC.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+
+
+</p>
+
 
 <br><br>
 
 ### 2. Goal
-To build a prediction model of the hotel cancellation utilizing features of the reservation. 
+  + To build a prediction model of the hotel cancellation utilizing features of the reservation. 
 
 <br>
 

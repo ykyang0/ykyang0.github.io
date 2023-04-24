@@ -1,5 +1,5 @@
 ---
-pagetitle: "ML Project2"
+pagetitle: "ML Project-clustering"
 output:
   html_document:
     toc: true
@@ -17,7 +17,6 @@ output:
 ## **Predicting Hotel reservation cancellation**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
-![](https://img.shields.io/badge/-LASSO-red)
 ![](https://img.shields.io/badge/-XGBoost-success)
 
 <br>
@@ -41,7 +40,7 @@ output:
 <br><br>
 
 ### 2. Goal
-To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+To clustering
 
 <br>
 
