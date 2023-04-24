@@ -45,13 +45,13 @@ output:
 <br><br>
 
 ### 2. Goal
-To clustering
+To cluster the customers into 3-4 groups 
 
 <br>
 
 ### 3. Methodology & Summary
 
-  + Unsupervised learning model
+  + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
   + Could seperated into 3-4 groups 
 
 <br>
