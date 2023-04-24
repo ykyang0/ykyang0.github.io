@@ -17,7 +17,7 @@ output:
 ## **Predicting Hotel reservation cancellation**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
-![](https://img.shields.io/badge/-XGBoost-success)
+
 
 <br>
 
