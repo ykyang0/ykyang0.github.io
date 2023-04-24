@@ -11,11 +11,11 @@ navbar:
       menu: 
       - text: "Predicting Hotel Cancellation"
         href: stat1.html
-    - text: "ML Project - Regression"
-      menu: 
-      - text: "Predicting Rideshare Prices"
-        href: dbsql1.html
-    - text: "ML Clustering"
+    # - text: "ML Project - Regression"
+    #   menu: 
+    #   - text: "Predicting Rideshare Prices"
+    #     href: dbsql1.html
+    - text: "ML Project - Clustering"
       menu: 
       - text: "ML Clustering"
         href: ML2.html
