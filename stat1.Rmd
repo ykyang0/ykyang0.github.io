@@ -29,7 +29,7 @@ output:
 ### 1. Figure
 
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/hotel_XGB_feature_importance.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 [Fig. LASSO regression features by importance]
@@ -41,20 +41,22 @@ output:
 <br><br>
 
 ### 2. Goal
-To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+To build a prediction model of the hotel cancellation utilizing features of the reservation. 
 
 <br>
 
 ### 3. Methodology & Summary
 
-  + LASSO regressions showed the best performance with a cross validation 
-  + The XGBoost model also performs very well with a cross validation 
+  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
+  
+  + The performances of other models are also presented: Ensemble Learning, Decision Tree, Logistic Regression, Random Forest, and Bagging Classifier.
 
+  
 <br>
 
 ### 4. Code
 
-Please click [HERE](https://nbviewer.org/github/ykyang0/ykyang0.github.io/blob/main/files/Final_version_of_hotel_notebook.ipynb) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/ykyang0/Data-Science/blob/main/Share_version_of_hotel_cancellation_prediction.ipynb) for the analysis report and code.
 
 <br>
 
