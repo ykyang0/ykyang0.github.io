@@ -19,10 +19,7 @@ navbar:
       menu: 
       - text: "ML Project - Clustering"
         href: ML-Project2.html
-    # - text: "Tableau Project"
-    #   menu: 
-    #   - text: "Tableau Project"
-    #     href: visualization1.html
+
   right:
     - icon: fas fa-envelope
       href: contact.html
