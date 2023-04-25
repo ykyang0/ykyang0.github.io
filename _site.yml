@@ -11,14 +11,15 @@ navbar:
       menu: 
       - text: "Predicting Hotel Cancellation"
         href: stat1.html
-    # - text: "ML Project - Regression"
-    #   menu: 
-    #   - text: "Predicting Rideshare Prices"
-    #     href: dbsql1.html
     - text: "ML Project - Clustering"
       menu: 
       - text: "ML Project - Clustering"
         href: ML-Project2.html
+    # - text: "ML Project - Regression"
+    #   menu: 
+    #   - text: "Predicting Rideshare Prices"
+    #     href: dbsql1.html
+    
 
   right:
     - icon: fas fa-envelope
