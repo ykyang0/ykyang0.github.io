@@ -1,5 +1,5 @@
 ---
-pagetitle: "Stat1"
+pagetitle: "ML - Classification"
 output:
   html_document:
     toc: true
@@ -59,7 +59,7 @@ output:
 
 ### 4. Code
 
-Please click [HERE](https://nbviewer.org/github/ykyang0/Data-Science/blob/main/Share_version_of_hotel_cancellation_prediction.ipynb) for the analysis report and code.
+Please click [HERE](https://colab.research.google.com/drive/12Al9qU7wCRgvVZj5hZZ6AK8DbR-8LtIf?usp=sharing) for the analysis report and code.
 
 <br>
 
