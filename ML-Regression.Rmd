@@ -1,5 +1,5 @@
 ---
-pagetitle: "ML project3"
+pagetitle: "ML Regression"
 output:
   html_document:
     toc: true
@@ -44,7 +44,7 @@ output:
 
 ### 3. Live Demo
 
-For more insights, please check my Shiny App Live Demo by clicking [HERE](https://shiny.rstudio.com/gallery/movie-explorer.html).
+For more insights, please check my Colab notebook [HERE](https://colab.research.google.com/drive/1ZkEIYk-SbEn-D862W84QoMAdlJ2FRCBH?usp=sharing).
 
 
 

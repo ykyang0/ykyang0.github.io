@@ -10,15 +10,15 @@ navbar:
     - text: "ML Project - Classification"
       menu: 
       - text: "Predicting Hotel Cancellation"
-        href: stat1.html
+        href: ML-CLassification.html
     - text: "ML Project - Clustering"
       menu: 
       - text: "ML Project - Clustering"
-        href: ML-Project2.html
-    # - text: "ML Project - Regression"
-    #   menu: 
-    #   - text: "Predicting Rideshare Prices"
-    #     href: dbsql1.html
+        href: ML-Clustering.html
+    - text: "ML Project - Regression"
+      menu: 
+      - text: "Predicting Rideshare Prices"
+        href: ML-Regression.html
     
 
   right:

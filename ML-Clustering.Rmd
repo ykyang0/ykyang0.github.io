@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Predicting Hotel reservation cancellation**
+## **Clustering Customer Data**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
 
@@ -58,7 +58,7 @@ To cluster the customers into 3-4 groups
 
 ### 4. Code
 
-Please click [HERE](https://nbviewer.org/github/ykyang0/Data-Science/blob/main/Multivariate_.ipynb) for the analysis report and code.
+Please click [HERE](https://colab.research.google.com/drive/1oXGLWlos00W9cysmIfVfhFO72cbf7YsA?usp=sharing) for the analysis report and code.
 
 <br>
 
