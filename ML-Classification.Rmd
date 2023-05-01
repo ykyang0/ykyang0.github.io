@@ -27,23 +27,28 @@ output:
 <br><br><br>
 
 ### 1. Goal
-  + To build a prediction model of the hotel cancellation utilizing features of the reservation. 
+  + The objective was to construct a prediction model for hotel cancellations using customers' reservation features.
 
 <br>
 
 ### 2. Methodology
-
-  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
   
-  + The performances of other models are also presented: Ensemble Learning, Decision Tree, Logistic Regression, Random Forest, and Bagging Classifier.
+  + Commonly used classification algorithms, such as Logistic Regression, Ensemble Learning, Bagging Classifier, Random Forest, Decision Tree, Neural Network and XGBoost were employed.
+  
+  + After performing cross-validation and hyperparameter tuning, XGBoost regression yielded the best results.
 
 <br>
 
 ### 3. Insights
 
-  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
+  + The following factors were found to be significant in determining the likelihood of a reservation being canceled:
+
+      + The guest's nationality (Portuguese guests tended to cancel more frequently, possibly due to being local customers).
+      + Lead time between booking and check-in (longer lead times were associated with higher cancellation rates).
+      + Total number of special requests made by the customers (higher number of special requests was associated with lower cancellation rates).
+      + The presence of previous non-canceled reservations (customers with such reservations had a lower tendency to cancel).
   
-  + The performances of other models are also presented: Ensemble Learning, Decision Tree, Logistic Regression, Random Forest, and Bagging Classifier.
+
 
 <br>
 

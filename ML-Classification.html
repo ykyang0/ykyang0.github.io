@@ -417,30 +417,38 @@ Portugal.</strong></p>
 <div id="goal" class="section level3">
 <h3>1. Goal</h3>
 <ul>
-<li>To build a prediction model of the hotel cancellation utilizing
-features of the reservation.</li>
+<li>The objective was to construct a prediction model for hotel
+cancellations using customers’ reservation features.</li>
 </ul>
 <p><br></p>
 </div>
 <div id="methodology" class="section level3">
 <h3>2. Methodology</h3>
 <ul>
-<li><p>XGBoost regressions performed best with cross-validation and
-hyperparameter tuning.</p></li>
-<li><p>The performances of other models are also presented: Ensemble
-Learning, Decision Tree, Logistic Regression, Random Forest, and Bagging
-Classifier.</p></li>
+<li><p>Commonly used classification algorithms, such as Logistic
+Regression, Ensemble Learning, Bagging Classifier, Random Forest,
+Decision Tree, Neural Network and XGBoost were employed.</p></li>
+<li><p>After performing cross-validation and hyperparameter tuning,
+XGBoost regression yielded the best results.</p></li>
 </ul>
 <p><br></p>
 </div>
 <div id="insights" class="section level3">
 <h3>3. Insights</h3>
 <ul>
-<li><p>XGBoost regressions performed best with cross-validation and
-hyperparameter tuning.</p></li>
-<li><p>The performances of other models are also presented: Ensemble
-Learning, Decision Tree, Logistic Regression, Random Forest, and Bagging
-Classifier.</p></li>
+<li><p>The following factors were found to be significant in determining
+the likelihood of a reservation being canceled:</p>
+<ul>
+<li>The guest’s nationality (Portuguese guests tended to cancel more
+frequently, possibly due to being local customers).</li>
+<li>Lead time between booking and check-in (longer lead times were
+associated with higher cancellation rates).</li>
+<li>Total number of special requests made by the customers (higher
+number of special requests was associated with lower cancellation
+rates).</li>
+<li>The presence of previous non-canceled reservations (customers with
+such reservations had a lower tendency to cancel).</li>
+</ul></li>
 </ul>
 <p><br></p>
 </div>

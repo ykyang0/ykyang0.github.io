@@ -35,6 +35,7 @@ output:
 
  + The following unsupervised learning models were employed: Cohort Analysis, RFM analysis, Kmeans, and Hierarchy model.
  + Based on the analysis results, customers can be segmented into 3 or 4 groups depending on the business requirements.
+ 
 <br>
 
 ### 3. Insight

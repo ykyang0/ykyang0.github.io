@@ -22,7 +22,7 @@ output:
 
 <br>
 
-🚨**This was a project based on real data from a hotel in Portugal.**
+🚨**This project involved analyzing Uber and Lyft ride data along with supplementary climate data.**
 
 <br><br><br>
 
