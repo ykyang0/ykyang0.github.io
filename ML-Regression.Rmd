@@ -1,5 +1,5 @@
 ---
-pagetitle: "ML Regression"
+pagetitle: "ML - Regression"
 output:
   html_document:
     toc: true
@@ -14,36 +14,65 @@ output:
 
 <br><br><br>
 
-## **ML project3**
+## **Regression Project - A model predicting rideshare prices**
 
-![](https://img.shields.io/badge/Using-R-blue)
-![](https://img.shields.io/badge/Using-R-%2300FFFF)
-![](https://img.shields.io/badge/-Shiny%20App-success)
+![](https://img.shields.io/badge/Using-Python-blue)
+![](https://img.shields.io/badge/-LASSO-red)
+![](https://img.shields.io/badge/-XGBoost-success)
 
 <br>
 
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
+🚨**This was a project based on real data from a hotel in Portugal.**
 
 <br><br><br>
 
-### 1. Screenshot of Dashboard
+### 1. Goal
+  + To build a prediction model of the rideshare prices with the features of rides. 
+
+<br>
+
+### 2. Methodology
+
+  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
+  
+  + 
+
+<br>
+
+### 3. Insights
+
+  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
+  
+  + The performances of other models are also presented: Ensemble Learning, Decision Tree, Linear Regression, Random Forest, and Neural Network.
+
+<br>
+
+### 4. Summary
+
+  + 
+  
+  + 
+
+  
+<br>
+
+### 5. Figure
 
 <p align="center">
-<img src="images/movie_explorer.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-</p>
+<img src="images/hotel_XGB_feature_importance.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 <p align="center">
+[Fig. XGB Classification features by importance]
 </p>
 
-<br><br><br>
+<br>
+<img src="images/Classification ROC.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 
-### 2. Summary
 
-+ blah blah blah
+</p>
 
-<br><br><br>
+<br><br>
 
-### 3. Live Demo
-
+### 6. Code
 For more insights, please check my Colab notebook [HERE](https://colab.research.google.com/drive/1ZkEIYk-SbEn-D862W84QoMAdlJ2FRCBH?usp=sharing).
 
 

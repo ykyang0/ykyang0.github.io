@@ -14,18 +14,45 @@ output:
 
 <br><br><br>
 
-## **Clustering Customer Data**
+## **Clustering Project - Customer Segmentation**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
 
 
 <br>
 
-🚨**This was a project based on real data from a hotel in Portugal.**
+🚨**The dataset of this project is from UK based non-store online retail.**
+<br>
 
-<br><br><br>
+<br><br>
 
-### 1. Figure
+### 1. Goal
+ + To cluster the customers into 3-4 groups 
+
+<br>
+
+### 2. Methodology
+
+ + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
+ + Could seperated into 3-4 groups 
+ 
+<br>
+
+### 3. Insight
+
+ + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
+ + Could seperated into 3-4 groups 
+
+<br>
+
+### 4. Summary
+
+ + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
+ + Could seperated into 3-4 groups 
+
+<br>
+
+### 5. Figure
 
 <p align="center">
 <img src="images/Clustering.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
@@ -38,28 +65,9 @@ output:
 </p>
 <p align="center">
 [Fig. Hierarchical Clustering ]
-
-
 <br>
 
-<br><br>
-
-### 2. Goal
-To cluster the customers into 3-4 groups 
-
-<br>
-
-### 3. Methodology & Summary
-
-  + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
-  + Could seperated into 3-4 groups 
-
-<br>
-
-### 4. Code
+### 6. Code
 
 Please click [HERE](https://colab.research.google.com/drive/1oXGLWlos00W9cysmIfVfhFO72cbf7YsA?usp=sharing) for the analysis report and code.
-
-<br>
-
 
