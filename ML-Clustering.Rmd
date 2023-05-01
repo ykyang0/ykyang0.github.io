@@ -33,22 +33,21 @@ output:
 
 ### 2. Methodology
 
- + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
- + Could seperated into 3-4 groups 
- 
+ + The following unsupervised learning models were employed: Cohort Analysis, RFM analysis, Kmeans, and Hierarchy model.
+ + Based on the analysis results, customers can be segmented into 3 or 4 groups depending on the business requirements.
 <br>
 
 ### 3. Insight
 
- + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
- + Could seperated into 3-4 groups 
+ + 
+ + 
 
 <br>
 
 ### 4. Summary
 
- + Unsupervised learning model was conducted: Cohort Analysis, RFM analysis, Kmeans, Hierarchy model 
- + Could seperated into 3-4 groups 
+ + 
+ + 
 
 <br>
 
@@ -65,6 +64,7 @@ output:
 </p>
 <p align="center">
 [Fig. Hierarchical Clustering ]
+</p>
 <br>
 
 ### 6. Code

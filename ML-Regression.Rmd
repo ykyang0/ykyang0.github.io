@@ -33,17 +33,17 @@ output:
 
 ### 2. Methodology
 
-  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
+  + To obtain a preliminary assessment of the models' performance, AutoML was initially executed on a subset of the data comprising 10% due to computational constraints.
   
-  + 
+  + The complete dataset was used to fit the following machine learning models: Linear Regression, Lasso, Ridge, LightGBM, Gradient Boosting, XGBoost, Random Forest, and Neural Network. Of these, XGBoost regression yielded the best performance.
 
 <br>
 
 ### 3. Insights
 
-  + XGBoost regressions performed best with cross-validation and hyperparameter tuning.
+  + The analysis revealed that distance, surge_multiplier, and ride type were significant features that influenced the price.
   
-  + The performances of other models are also presented: Ensemble Learning, Decision Tree, Linear Regression, Random Forest, and Neural Network.
+  + Although climate data was included in the dataset, the analysis revealed that it had minimal impact.
 
 <br>
 
