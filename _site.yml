@@ -10,7 +10,7 @@ navbar:
     - text: "ML Project - Classification"
       menu: 
       - text: "Predicting Hotel Cancellation"
-        href: ML-CLassification.html
+        href: ML-Classification.html
     - text: "ML Project - Clustering"
       menu: 
       - text: "ML Project - Clustering"
