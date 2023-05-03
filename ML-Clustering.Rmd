@@ -38,21 +38,7 @@ output:
  
 <br>
 
-### 3. Insight
-
- + 
- + 
-
-<br>
-
-### 4. Summary
-
- + 
- + 
-
-<br>
-
-### 5. Figure
+### 3. Figure
 
 <p align="center">
 <img src="images/Clustering.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
@@ -68,7 +54,7 @@ output:
 </p>
 <br>
 
-### 6. Code
+### 4. Code
 
 Please click [HERE](https://colab.research.google.com/drive/1oXGLWlos00W9cysmIfVfhFO72cbf7YsA?usp=sharing) for the analysis report and code.
 

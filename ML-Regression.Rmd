@@ -47,16 +47,7 @@ output:
 
 <br>
 
-### 4. Summary
-
-  + 
-  
-  + 
-
-  
-<br>
-
-### 5. Figure
+### 4. Figure
 
 <p align="center">
 <img src="images/hotel_XGB_feature_importance.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
@@ -72,7 +63,7 @@ output:
 
 <br><br>
 
-### 6. Code
+### 5. Code
 For more insights, please check my Colab notebook [HERE](https://colab.research.google.com/drive/1ZkEIYk-SbEn-D862W84QoMAdlJ2FRCBH?usp=sharing).
 
 
