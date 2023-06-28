@@ -47,23 +47,11 @@ output:
 
 <br>
 
-### 4. Figure
-
-<p align="center">
-<img src="images/hotel_XGB_feature_importance.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-<p align="center">
-[Fig. XGB Classification features by importance]
-</p>
-
-<br>
-<img src="images/Classification ROC.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-
-
 </p>
 
 <br><br>
 
-### 5. Code
+### 4. Code
 For more insights, please check my Colab notebook [HERE](https://colab.research.google.com/drive/1ZkEIYk-SbEn-D862W84QoMAdlJ2FRCBH?usp=sharing).
 
 
