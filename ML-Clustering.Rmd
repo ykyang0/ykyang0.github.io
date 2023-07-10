@@ -18,13 +18,10 @@ output:
 
 ![](https://img.shields.io/badge/Using-Python-blue)
 
-
-<br>
-
 🚨**The dataset of this project is from UK based non-store online retail.**
+
 <br>
 
-<br><br>
 
 ### 1. Goal
  + To cluster the customers into 3-4 groups 
