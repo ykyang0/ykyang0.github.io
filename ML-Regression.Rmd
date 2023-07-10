@@ -24,17 +24,16 @@ output:
 
 🚨**This project involved analyzing Uber and Lyft ride data along with supplementary climate data.**
 
-<br><br><br>
+<br>
 
 ### 1. Goal
   + To build a prediction model of the rideshare prices with the features of rides. 
-
+  
 <br>
 
 ### 2. Methodology
 
   + To obtain a preliminary assessment of the models' performance, AutoML was initially executed on a subset of the data comprising 10% due to computational constraints.
-  
   + The complete dataset was used to fit the following machine learning models: Linear Regression, Lasso, Ridge, LightGBM, Gradient Boosting, XGBoost, Random Forest, and Neural Network. Of these, XGBoost regression yielded the best performance.
 
 <br>
@@ -42,7 +41,6 @@ output:
 ### 3. Insights
 
   + The analysis revealed that distance, surge_multiplier, and ride type were significant features that influenced the price.
-  
   + Although climate data was included in the dataset, the analysis revealed that it had minimal impact.
 
 <br>

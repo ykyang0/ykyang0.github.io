@@ -29,6 +29,8 @@ output:
 ### 0. Introduction
  + 
 
+<br>
+
 ### 1. Goal
  + The objective was to construct a prediction model for hotel cancellations using customers' reservation features.
 
