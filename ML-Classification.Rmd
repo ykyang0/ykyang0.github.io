@@ -24,17 +24,19 @@ output:
 
 🚨**This was a project based on real data from a hotel in Portugal.**
 
-<br><br><br>
+<br>
+
+### 0. Introduction
+ + 
 
 ### 1. Goal
-  + The objective was to construct a prediction model for hotel cancellations using customers' reservation features.
+ + The objective was to construct a prediction model for hotel cancellations using customers' reservation features.
 
 <br>
 
 ### 2. Methodology
   
   + Commonly used classification algorithms, such as Logistic Regression, Ensemble Learning, Bagging Classifier, Random Forest, Decision Tree, Neural Network and XGBoost were employed.
-  
   + After performing cross-validation and hyperparameter tuning, XGBoost regression yielded the best results.
 
 <br>
