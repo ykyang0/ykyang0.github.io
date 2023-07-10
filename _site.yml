@@ -26,8 +26,8 @@ navbar:
       href: contact.html
     - icon: ai-cv ai-lg
       href: files/YoungKeun_Yang_Resume.pdf
-    - icon: fab fa-github
-      href: http://github.com/ykyang0
+    - #icon: fab fa-github
+      #href: http://github.com/ykyang0
     - icon: fab fa-linkedin-in
       href: https://www.linkedin.com/in/ykyang
     #- icon: ai-google-scholar ai-lg
