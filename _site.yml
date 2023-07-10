@@ -24,8 +24,8 @@ navbar:
   right:
     - icon: fas fa-envelope
       href: contact.html
-    #- icon: ai-cv ai-lg
-    #  href: files/sample_resume.pdf
+    - icon: ai-cv ai-lg
+      href: files/YoungKeun_Yang_Resume.pdf
     - icon: fab fa-github
       href: http://github.com/ykyang0
     - icon: fab fa-linkedin-in

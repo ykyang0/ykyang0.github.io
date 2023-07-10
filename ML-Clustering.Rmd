@@ -22,21 +22,18 @@ output:
 
 <br>
 
-
 ### 1. Goal
  + To cluster the customers into 3-4 groups 
 
 <br>
 
 ### 2. Methodology
-
  + The following unsupervised learning models were employed: Cohort Analysis, RFM analysis, Kmeans, and Hierarchy model.
  + Based on the analysis results, customers can be segmented into 3 or 4 groups depending on the business requirements.
  
 <br>
 
 ### 3. Figure
-
 <p align="center">
 <img src="images/Clustering.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
@@ -52,6 +49,5 @@ output:
 <br>
 
 ### 4. Code
-
 Please click [HERE](https://colab.research.google.com/drive/1oXGLWlos00W9cysmIfVfhFO72cbf7YsA?usp=sharing) for the analysis report and code.
 
