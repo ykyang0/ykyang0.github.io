@@ -9,14 +9,14 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile2.jpeg" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
+<img src="images/profile3.jpg" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
 </p>
-<br>
 
-<br><br><br>
+
+<br>
 👋🏽 Hello, my name is Young Keun Yang.
 
-🎓 Soon to graduate with an M.A. in Statistics at the University of South Florida. (May 2023)
+🎓 Soon to graduate with an M.A. in Statistics at the University of South Florida. (August 2023)
 
 🌇 Resides in Tampa Bay Area, passionate about developing and applying statistical and machine learning models that bring insights or prediction.
 
@@ -28,4 +28,4 @@ output: html_document
 
 + Programming: Python, R
 + Data visualization: Tableau
-+ Database: SQL, Postgre SQL
++ Database: mySQL, Postgre SQL
