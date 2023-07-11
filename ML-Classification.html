@@ -418,7 +418,7 @@ src="https://img.shields.io/badge/-XGBoost-success" /></p>
 Portugal.</strong></p>
 <p><br></p>
 <div id="introduction" class="section level3">
-<h3>0. Introduction</h3>
+<h3>1. Introduction</h3>
 <p>  Life is rife with uncertainty, and reserving a hotel stay for a
 travel or business trip is no exception. Given the unpredictable nature
 of circumstances, customers may need to cancel or reschedule their
@@ -426,6 +426,7 @@ visit, causing potential stress for both customers and the hotel. To
 address this challenge, a contingency plan becomes necessary. This
 project aims to provide assistance and ideas for developing backup plans
 specifically tailored for hotels.<br />
+<br />
   Efficiently managing cancellations and rescheduling is crucial from a
 hotel’s business perspective. By employing machine learning methods, it
 becomes possible to analyze customer cancellation patterns and utilize
@@ -434,7 +435,8 @@ hypothetical scenario where a hotel has 100 rooms and accepts 100
 reservations for a day. However, if 40% of these reservations end up
 being canceled, only 60 rooms will be occupied, resulting in a loss of
 potential revenue.<br />
-  This project focuses on predicting the probability of reservation
+</p>
+<p>  This project focuses on predicting the probability of reservation
 cancellations, allowing for proactive adjustments. By utilizing this
 information, improvements can be made to the booking system to optimize
 hotel occupancy. For example, if the average cancellation rate is 40%,
@@ -442,16 +444,18 @@ the viable count of reservations can be calculated by assuming that 40%
 of reservations would be canceled. If the hotel takes 166 reservations
 and 40% of them are canceled, approximately 99.6 reservations would
 remain.<br />
-  While this condition is overly simplified and carries the risk of
-having more than 100 reservations left, it highlights the need for
-accurate adjustment. Nonetheless, this model serves as an initial step
-towards maximizing the hotel’s revenue by effectively managing
-cancellations and optimizing room occupancy.<br />
+</p>
+<p>  This project focuses on predicting the probability of reservation
+cancellations, allowing for proactive adjustments. By utilizing this
+information, improvements can be made to the booking system to optimize
+hotel occupancy. This model serves as an initial step toward maximizing
+the hotel’s revenue by effectively managing cancellations and optimizing
+room occupancy..<br />
 </p>
 <p><br></p>
 </div>
 <div id="goal" class="section level3">
-<h3>1. Goal</h3>
+<h3>2. Goal</h3>
 <ul>
 <li>The objective was to construct a prediction model for hotel
 cancellations using customers’ reservation features.</li>
@@ -459,7 +463,7 @@ cancellations using customers’ reservation features.</li>
 <p><br></p>
 </div>
 <div id="methodology" class="section level3">
-<h3>2. Methodology</h3>
+<h3>3. Methodology</h3>
 <ul>
 <li>Commonly used classification algorithms, such as Logistic
 Regression, Ensemble Learning, Bagging Classifier, Random Forest,
@@ -470,7 +474,7 @@ regression yielded the best results.</li>
 <p><br></p>
 </div>
 <div id="insights" class="section level3">
-<h3>3. Insights</h3>
+<h3>4. Insights</h3>
 <ul>
 <li><p>The following factors were found to be significant in determining
 the likelihood of a reservation being canceled:</p>
@@ -489,7 +493,7 @@ such reservations had a lower tendency to cancel).</li>
 <p><br></p>
 </div>
 <div id="figure" class="section level3">
-<h3>4. Figure</h3>
+<h3>5. Figure</h3>
 <ul>
 <li>The first figure showcases the crucial factors that exert a
 substantial influence on cancellations, as determined by the XGBoost
@@ -511,7 +515,7 @@ built.</li>
 <p><br><br></p>
 </div>
 <div id="code" class="section level3">
-<h3>5. Code</h3>
+<h3>6. Code</h3>
 <p>Please click <a
 href="https://colab.research.google.com/drive/12Al9qU7wCRgvVZj5hZZ6AK8DbR-8LtIf?usp=sharing">HERE</a>
 for the analysis report and code.</p>
