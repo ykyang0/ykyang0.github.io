@@ -426,31 +426,16 @@ visit, causing potential stress for both customers and the hotel. To
 address this challenge, a contingency plan becomes necessary. This
 project aims to provide assistance and ideas for developing backup plans
 specifically tailored for hotels.<br />
-<br />
-  Efficiently managing cancellations and rescheduling is crucial from a
-hotel’s business perspective. By employing machine learning methods, it
-becomes possible to analyze customer cancellation patterns and utilize
-this information to create a robust plan. For instance, let’s consider a
-hypothetical scenario where a hotel has 100 rooms and accepts 100
-reservations for a day. However, if 40% of these reservations end up
-being canceled, only 60 rooms will be occupied, resulting in a loss of
-potential revenue.<br />
 </p>
-<p>  This project focuses on predicting the probability of reservation
-cancellations, allowing for proactive adjustments. By utilizing this
-information, improvements can be made to the booking system to optimize
-hotel occupancy. For example, if the average cancellation rate is 40%,
-the viable count of reservations can be calculated by assuming that 40%
-of reservations would be canceled. If the hotel takes 166 reservations
-and 40% of them are canceled, approximately 99.6 reservations would
-remain.<br />
-</p>
-<p>  This project focuses on predicting the probability of reservation
-cancellations, allowing for proactive adjustments. By utilizing this
-information, improvements can be made to the booking system to optimize
-hotel occupancy. This model serves as an initial step toward maximizing
-the hotel’s revenue by effectively managing cancellations and optimizing
-room occupancy..<br />
+<p>  Efficiently managing cancellations and rescheduling is crucial from
+a hotel’s business perspective. By employing machine learning methods,
+it becomes possible to analyze customer cancellation patterns and
+utilize this information to create a robust plan. This project focuses
+on predicting the probability of reservation cancellations, allowing for
+proactive adjustments. By utilizing this information, improvements can
+be made to the booking system to optimize hotel occupancy. This model
+serves as an initial step toward maximizing the hotel’s revenue by
+effectively managing cancellations and optimizing room occupancy.<br />
 </p>
 <p><br></p>
 </div>
@@ -476,8 +461,10 @@ regression yielded the best results.</li>
 <div id="insights" class="section level3">
 <h3>4. Insights</h3>
 <ul>
-<li><p>The following factors were found to be significant in determining
-the likelihood of a reservation being canceled:</p>
+<li>There was 37.1% cancellations in 119,390 of reservations. The model
+was able to predict 91% of these cancellations.</li>
+<li>The following factors were found to be significant in determining
+the likelihood of a reservation being canceled:
 <ul>
 <li>The guest’s nationality (Portuguese guests tended to cancel more
 frequently, possibly due to being local customers).</li>
