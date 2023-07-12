@@ -56,9 +56,6 @@ output:
       + Total number of special requests made by the customers (higher number of special requests was associated with lower cancellation rates).
       + The presence of previous non-canceled reservations (customers with such reservations had a lower tendency to cancel).
   
-
-
-  
 <br>
 
 ### 5. Figures
