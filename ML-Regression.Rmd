@@ -16,7 +16,7 @@ output:
 
 ## **Regression Project - A model predicting rideshare prices**
 
-![](https://img.shields.io/badge/Using-Python-blue)
+![](https://img.shields.io/badge/used-Python-white)
 ![](https://img.shields.io/badge/-LASSO-red)
 ![](https://img.shields.io/badge/-XGBoost-success)
 

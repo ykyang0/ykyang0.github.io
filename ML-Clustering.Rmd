@@ -16,7 +16,7 @@ output:
 
 ## **Clustering Project - Customer Segmentation**
 
-![](https://img.shields.io/badge/Using-Python-blue)
+![](https://img.shields.io/badge/used-Python-white)
 
 🚨**The dataset of this project is from UK based non-store online retail.**
 
