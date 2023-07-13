@@ -78,8 +78,7 @@ output:
 
 ### 6. Code
 
-Please click [HERE](https://colab.research.google.com/drive/12Al9qU7wCRgvVZj5hZZ6AK8DbR-8LtIf?usp=sharing)(Colab) for the analysis report and code.
-
+For more detailed analysis and code, please check my Colab notebook [HERE](https://colab.research.google.com/drive/12Al9qU7wCRgvVZj5hZZ6AK8DbR-8LtIf?usp=sharing)(Colab) 
 <br>
 
 

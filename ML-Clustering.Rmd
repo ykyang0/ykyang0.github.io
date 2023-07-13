@@ -63,5 +63,5 @@ output:
 <br>
 
 ### 6. Code
-Please click [HERE](https://colab.research.google.com/drive/1oXGLWlos00W9cysmIfVfhFO72cbf7YsA?usp=sharing) for the analysis report and code.
+For more detailed analysis and code, please check my Colab notebook[HERE](https://colab.research.google.com/drive/1oXGLWlos00W9cysmIfVfhFO72cbf7YsA?usp=sharing) 
 
