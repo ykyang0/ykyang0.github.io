@@ -26,26 +26,33 @@ output:
 
 <br>
 
-### 1. Goal
+### 1. Introduction
+\    The car has become an essential aspect of modern life. However, there are situations where individuals may require transportation but lack a personal vehicle. In such cases, alternative options become necessary. Uber and Lyft are two prominent companies that provide ride-sharing platforms to cater to this need. These companies connect drivers with passengers, facilitating transportation services. Despite the consistent nature of the customer-provider connection service, the ride cost can vary, even when the departure and destination locations are identical. Uber refers to this as surge pricing and has implemented a fare pricing system. Understanding this pricing pattern is advantageous for both drivers and riders. Riders prefer to utilize the service when prices are lower, while drivers aim to drive during periods of higher fares as Uber attempts to balance supply and demand.
+
+\       The main objective of this project is to uncover the fare system by employing the regression method. By modeling a regression model using the ride data from Uber and Lyft, the project aims to identify the key factors that influence fare prices and predict fares based on given features. The insights and findings from this project hold the potential to provide benefits to users and ride-share businesses. Users, riders, and drivers can make informed decisions about the optimal times to ride or work, maximizing their needs and preferences. Furthermore, based on the suggestions provided by this project, Uber and Lyft can consider incorporating new factors into their algorithms to enhance their pricing systems further.
+
+<br>
+
+### 2. Goal
   + To build a prediction model of the rideshare prices with the features of rides. 
   
 <br>
 
-### 2. Methodology
+### 3. Methodology
 
   + To obtain a preliminary assessment of the models' performance, AutoML was initially executed on a subset of the data comprising 10% due to computational constraints.
   + The complete dataset was used to fit the following machine learning models: Linear Regression, Lasso, Ridge, LightGBM, Gradient Boosting, XGBoost, Random Forest, and Neural Network. Of these, XGBoost regression yielded the best performance.
 
 <br>
 
-### 3. Insights
+### 4. Insights
 
   + The analysis revealed that distance, surge_multiplier, and ride type were significant features that influenced the price.
   + Although climate data was included in the dataset, the analysis revealed that it had minimal impact.
 
 <br>
 
-### 4. Code
+### 5. Code
 For more insights, please check my Colab notebook [HERE](https://colab.research.google.com/drive/1ZkEIYk-SbEn-D862W84QoMAdlJ2FRCBH?usp=sharing).
 
 
